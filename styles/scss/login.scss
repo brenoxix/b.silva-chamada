@@ -1,0 +1,251 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.login-zzn {
+  width: 100%;
+  height: 87.1rem;
+  position: relative;
+  overflow: hidden;
+  background-color: rgba(0, 80, 175, 0.5199999809);
+
+  .image-3-JEn {
+    width: 143.6705rem;
+    height: 43.6rem;
+    position: absolute;
+    left: 0;
+    top: 22.9rem;
+    object-fit: cover;
+    vertical-align: top;
+  }
+  .mask-group-1ut {
+    left: 0;
+    top: 0;
+    object-fit: contain;
+    vertical-align: top;
+    width: 144rem;
+    height: 90.2rem;
+    position: absolute;
+  }
+  .background-j5C {
+    background: linear-gradient(180deg, rgba(59, 94, 218, 0.4799999893) -0%, rgba(42, 15, 0, 0.4799999893) 49.82%);
+    width: 144rem;
+    height: 90rem;
+    position: absolute;
+    left: 0;
+    top: 0;
+  }
+  .group-10-cug {
+    width: 35rem;
+    height: 60.5rem;
+    position: absolute;
+    left: 51rem;
+    top: 17.4rem;
+
+    .base-jjQ {
+      background-color: #ffffff;
+      border-radius: 2rem;
+      width: 35rem;
+      height: 55rem;
+      position: absolute;
+      left: 0;
+      top: 5.5rem;
+      box-shadow: 0.4rem 0.4rem 1rem rgba(0, 0, 0, 0.25);
+    }
+    .usurio-DuU {
+      position: absolute;
+      left: 2.1rem;
+      font-size: 1.5rem;
+      font-weight: 700;
+      line-height: 1.2125;
+      color: #000000;
+      box-sizing: border-box;
+      width: 29.1rem;
+      height: 4.2rem;
+      top: 15.4rem;
+      font-family: Inter, 'Source Sans Pro';
+      white-space: nowrap;
+      border-bottom: solid 0.1rem #000000;
+    }
+    .senha-FLN {
+      position: absolute;
+      left: 2.1rem;
+      font-size: 1.5rem;
+      line-height: 1.2125;
+      font-family: Inter, 'Source Sans Pro';
+      white-space: nowrap;
+      border-bottom: solid 0.1rem #000000;
+      width: 29.1rem;
+      height: 4.2rem;
+      top: 21.7rem;
+      font-weight: 700;
+      color: #000000;
+      box-sizing: border-box;
+    }
+    .boto-8f4 {
+      font-weight: 700;
+      line-height: 1.2125;
+      color: #ffffff;
+      font-family: Inter, 'Source Sans Pro';
+      display: flex;
+      position: absolute;
+      white-space: nowrap;
+      justify-content: center;
+      background-color: #1246ff;
+      border-radius: 2rem;
+      height: 4.5rem;
+      font-size: 2rem;
+      align-items: center;
+      width: 18.8rem;
+      left: 7.3rem;
+      top: 30rem;
+    }
+    .google-a1G {
+      align-items: center;
+      border: solid 0.1rem #000000;
+      box-sizing: border-box;
+      width: 29.1rem;
+      height: 4.5rem;
+      position: absolute;
+      display: flex;
+      padding: 0.8rem 9.5rem 0.7rem 1.4rem;
+      left: 2.1rem;
+      top: 37.4rem;
+      background-color: #ffffff;
+      border-radius: 2rem;
+
+      .google-1-28A {
+        margin-right: 1.8rem;
+        width: 3rem;
+        height: 3rem;
+        object-fit: cover;
+        vertical-align: top;
+        flex-shrink: 0;
+      }
+      .entrar-com-google-xXc {
+        font-weight: 500;
+        line-height: 1.2125;
+        color: #000000;
+        font-family: Inter, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin-top: 0.1rem;
+        font-size: 1.5rem;
+      }
+    }
+    .facebook-evE {
+      position: absolute;
+      left: 2.1rem;
+      align-items: center;
+      border: solid 0.1rem #000000;
+      background-color: #ffffff;
+      padding: 0.8rem 7.9rem 0.7rem 1.4rem;
+      width: 29.1rem;
+      height: 4.5rem;
+      top: 44.1rem;
+      display: flex;
+      border-radius: 2rem;
+      box-sizing: border-box;
+
+      .facebook-1-w8e {
+        margin-right: 1.8rem;
+        width: 3rem;
+        height: 3rem;
+        object-fit: cover;
+        vertical-align: top;
+        flex-shrink: 0;
+      }
+      .entrar-com-facebook-rmQ {
+        line-height: 1.2125;
+        color: #000000;
+        font-family: Inter, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin-top: 0.1rem;
+        font-size: 1.5rem;
+        font-weight: 500;
+      }
+    }
+    .esqueceu-a-senha-WLA {
+      line-height: 1.2125;
+      font-family: Inter, 'Source Sans Pro';
+      align-items: center;
+      left: 9.6rem;
+      font-size: 1.5rem;
+      text-decoration-line: underline;
+      width: 14.1rem;
+      top: 51.85rem;
+      justify-content: center;
+      color: #000000;
+      white-space: nowrap;
+      position: absolute;
+      display: flex;
+      font-weight: 500;
+      height: 1.9rem;
+    }
+    .crie-sua-conta-hfY {
+      height: 1.9rem;
+      font-family: Inter, 'Source Sans Pro';
+      white-space: nowrap;
+      left: 10.9rem;
+      font-weight: 500;
+      text-decoration-line: underline;
+      position: absolute;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.5rem;
+      line-height: 1.2125;
+      width: 11.4rem;
+      top: 54.65rem;
+      display: flex;
+      color: #000000;
+    }
+    .ellipse-1-z8r {
+      vertical-align: top;
+      width: 12.1rem;
+      height: 13.3rem;
+      position: absolute;
+      left: 9.6rem;
+      top: 2.1rem;
+      object-fit: contain;
+    }
+    .logo-Upi {
+      left: 7.8rem;
+      top: 0;
+      width: 18.9rem;
+      height: 14.4401rem;
+      position: absolute;
+
+      .vector-2-QiN {
+        object-fit: contain;
+        vertical-align: top;
+        width: 18.4rem;
+        height: 8.6rem;
+        position: absolute;
+        left: 0.5rem;
+        top: 0.7rem;
+      }
+      .iconviagem-1-YZg {
+        width: 18rem;
+        height: 14.4401rem;
+        position: absolute;
+        left: 0;
+        top: 0;
+        object-fit: cover;
+        vertical-align: top;
+      }
+    }
+  }
+}
